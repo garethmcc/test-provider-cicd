@@ -13,7 +13,7 @@
 
 service: test-service
 # app and org for use with dashboard.serverless.com
-app: mytestapp
+app: testapp
 org: providerorgtest
 
 # You can pin your service to only deploy with a specific Serverless version
